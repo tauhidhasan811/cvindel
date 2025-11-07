@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+dotenv
+langchain_google_genai
+psycopg2-binary
+python-multipart
+pymongo[srv]
